@@ -1,0 +1,14 @@
+server:
+  custom:
+    address: localhost
+    port: :8080
+    protocol: HTTP://
+    methode:
+          upload:
+            file:
+              uri: files/download/
+
+
+
+
+
